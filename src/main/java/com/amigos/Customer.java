@@ -48,6 +48,10 @@ public class Customer {
         this.age = age;
     }
 
+    private static int justTrying(){
+        return 0;
+    }
+
 
 
 
