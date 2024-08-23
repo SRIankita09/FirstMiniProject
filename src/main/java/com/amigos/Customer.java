@@ -48,8 +48,8 @@ public class Customer {
         this.age = age;
     }
 
-    private static int justTrying(){
-        return 0;
+    private static void justTrying(){
+        System.out.println("just testing");
     }
 
 
