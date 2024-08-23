@@ -48,7 +48,9 @@ public class Customer {
         this.age = age;
     }
 
-
+    void justForTest(){
+        return;
+    }
 
 
 }
