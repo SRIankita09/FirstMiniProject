@@ -48,9 +48,14 @@ public class Customer {
         this.age = age;
     }
 
-    void trying Agaian(){
+
+    void trying Agian(){
         return ;
 
+
+    void justForTest(){
+        return;
     }
+
 
 }
