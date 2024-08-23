@@ -48,6 +48,8 @@ public class Customer {
         this.age = age;
     }
 
-
+   void in1stCut(){
+        return;
+   }
 
 }
