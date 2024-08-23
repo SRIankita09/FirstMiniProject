@@ -52,6 +52,11 @@ public class Customer {
         System.out.println("just testing");
     }
 
+    private static void justTrying2(){
+        System.out.println("just testing 2");
+    }
+
+
 
 
 
