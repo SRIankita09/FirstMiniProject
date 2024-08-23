@@ -49,13 +49,5 @@ public class Customer {
     }
 
 
-    void trying Agian(){
-        return ;
-
-
-    void justForTest(){
-        return;
-    }
-
 
 }
